@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="WebContent/WEB-INF/lib"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/antlr-2.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/commons-collections-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/hibernate3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/javassist-3.9.0.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/jta-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/slf4j-api-1.5.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/jars_this_code_sample_uses/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/annotations-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina.jar" sourcepath="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ha.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-storeconfig.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-tribes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/ecj-4.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/el-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper.jar" sourcepath="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jaspic-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar" sourcepath="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-coyote.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-es.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jdbc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jni.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util-scan.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-websocket.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/aopalliance-repackaged-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/ecj-4.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/javax.ws.rs-api-2.0 2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jersey-guava-2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Documents/workplace/TodoList/WebContent/WEB-INF/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Downloads/jersey-bundle-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Downloads/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/keinan/Downloads/json-simple-1.1.jar/json-simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
