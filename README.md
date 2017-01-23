@@ -7,4 +7,6 @@ Screen capture from Todo list web app:
 
 ![alt tag](https://cloud.githubusercontent.com/assets/24606661/22206074/566b22e8-e182-11e6-931d-4be259b5f64a.png)
 
+You also can Edit or Add tasks in a blink of an eye:
 
+![alt tag](https://cloud.githubusercontent.com/assets/24606661/22206316/74b24e42-e183-11e6-8213-206ac5a6fb13.PNG)
